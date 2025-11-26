@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\Desktop\Dastu first ACTIVITY\Dastru first ACTIVITY\Dastru first ACTIVITY\bin\Debug\Dastru first ACTIVITY.exe.config
+C:\Users\ACT-STUDENT\Desktop\Dastu first ACTIVITY\Dastru first ACTIVITY\Dastru first ACTIVITY\bin\Debug\Dastru first ACTIVITY.exe
+C:\Users\ACT-STUDENT\Desktop\Dastu first ACTIVITY\Dastru first ACTIVITY\Dastru first ACTIVITY\bin\Debug\Dastru first ACTIVITY.pdb
+C:\Users\ACT-STUDENT\Desktop\Dastu first ACTIVITY\Dastru first ACTIVITY\Dastru first ACTIVITY\obj\Debug\Dastru first ACTIVITY.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\Dastu first ACTIVITY\Dastru first ACTIVITY\Dastru first ACTIVITY\obj\Debug\Dastru first ACTIVITY.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\Dastu first ACTIVITY\Dastru first ACTIVITY\Dastru first ACTIVITY\obj\Debug\Dastru first ACTIVITY.exe
+C:\Users\ACT-STUDENT\Desktop\Dastu first ACTIVITY\Dastru first ACTIVITY\Dastru first ACTIVITY\obj\Debug\Dastru first ACTIVITY.pdb
+C:\Users\ACT-STUDENT\Desktop\Dastu first ACTIVITY\Dastru first ACTIVITY\Dastru first ACTIVITY\obj\Debug\Dastru first ACTIVITY.exe.config
