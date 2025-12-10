@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\Desktop\Object- oriented progremming\area of a shape\area of a shape\bin\Debug\area of a shape.exe.config
+C:\Users\ACT-STUDENT\Desktop\Object- oriented progremming\area of a shape\area of a shape\bin\Debug\area of a shape.exe
+C:\Users\ACT-STUDENT\Desktop\Object- oriented progremming\area of a shape\area of a shape\bin\Debug\area of a shape.pdb
+C:\Users\ACT-STUDENT\Desktop\Object- oriented progremming\area of a shape\area of a shape\obj\Debug\area of a shape.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\Object- oriented progremming\area of a shape\area of a shape\obj\Debug\area of a shape.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\Object- oriented progremming\area of a shape\area of a shape\obj\Debug\area of a shape.exe
+C:\Users\ACT-STUDENT\Desktop\Object- oriented progremming\area of a shape\area of a shape\obj\Debug\area of a shape.pdb
+C:\Users\ACT-STUDENT\Desktop\Object- oriented progremming\area of a shape\area of a shape\obj\Debug\area of a shape.exe.config
