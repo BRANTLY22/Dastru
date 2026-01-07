@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ordeniza_Act1", "Ordeniza_Act1.csproj", "{CC9B174C-A519-42BE-AF35-AEFFB20E6B40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC9B174C-A519-42BE-AF35-AEFFB20E6B40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC9B174C-A519-42BE-AF35-AEFFB20E6B40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC9B174C-A519-42BE-AF35-AEFFB20E6B40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC9B174C-A519-42BE-AF35-AEFFB20E6B40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EC8F275-963E-42BB-B6FD-5C18EFBAF1F1}
+	EndGlobalSection
+EndGlobal
