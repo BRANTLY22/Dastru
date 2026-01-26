@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inserting Nodes to the Linked List", "Inserting Nodes to the Linked List.csproj", "{EA5973C0-5AA4-4E04-A217-F48104194D34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA5973C0-5AA4-4E04-A217-F48104194D34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA5973C0-5AA4-4E04-A217-F48104194D34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA5973C0-5AA4-4E04-A217-F48104194D34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA5973C0-5AA4-4E04-A217-F48104194D34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58900BDB-3C5A-48A9-BEB3-DEE18B5038C9}
+	EndGlobalSection
+EndGlobal
